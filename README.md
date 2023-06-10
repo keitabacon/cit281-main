@@ -8,7 +8,7 @@ cit281-lab07
 cit281-lab08
 cit281-lab09
 
-cit281-p1
+cit281-p1: https://github.com/keitabacon/cit281-p1
 cit281-p2
 cit281-p3
 cit281-p4
